@@ -17,3 +17,4 @@ Nodejs examples of using [Axiomware's](http://www.axiomware.com) [netrunr-gapi-a
 | [GATT-scanner-async](https://github.com/axiomware/GATT-scanner-async) | Print out the GATT table of BLE device      |  
 | [sensortag-file-async](https://github.com/axiomware/sensortag-file-async)     | Collect data from TI Sensortag and store to a file      |  
 | [advertisement-scanner-multigateway-async](https://github.com/axiomware/advertisement-scanner-multigateway-async) | Capture advertisements packets and store to file, Multi-gateway support      |
+| [multisensor-file-async](https://github.com/axiomware/multisensor-file-async) | Collect data from multiple sensors of two different types (SensorTag CC2650 and Sensirion SHT31 Smart Gadget)      |
